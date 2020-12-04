@@ -7,8 +7,6 @@ function miaou(){
     document.getElementById("cat-chat").innerHTML = "Me touche pas Humain !!!";
 }
 
-
-
 cat.addEventListener("mouseenter", miaou);
 
 
